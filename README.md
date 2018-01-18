@@ -1,2 +1,2 @@
 # commonpool2
-project for common-pool2
+project for commons-pool2
